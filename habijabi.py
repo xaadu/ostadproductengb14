@@ -107,3 +107,5 @@
 # Dynamically typed
 
 # b * b - 4 * a * c
+
+print("This is new line!")
